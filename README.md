@@ -1,2 +1,3 @@
 # dev-winter-2016-mass-pairing
-TicTacToe example from the mass pairing session at /dev/winter/2016
+
+TicTacToe example from the [mass pairing](https://github.com/mostalive/masspairing) session at /dev/winter/2016
